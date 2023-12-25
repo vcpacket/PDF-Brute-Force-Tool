@@ -4,7 +4,5 @@ This Python script is designed to brute-force passwords for encrypted PDF files.
 Usage:
 Install the required libraries: pip install PyMuPDF
 Run the script: python pdfbrute.py
-Author:
-VCPacket
-License:
-MIT License
+Author: VCPacket
+License: MIT License
